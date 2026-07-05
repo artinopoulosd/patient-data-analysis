@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Heart_Rate,Systolic_BP,Diastolic_BP,Length_of_Stay
+1,65,Male,82,130,85,4
+2,43,Female,105,145,92,2
+3,71,Female,76,125,80,6
+4,58,Male,98,138,88,3
+5,34,Female,110,150,95,1
+6,80,Male,72,120,78,7
+7,49,Female,88,132,84,2
+8,62,Male,101,142,90,5
+9,55,Female,79,128,82,3
+10,39,Male,115,155,96,1
