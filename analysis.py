@@ -1,6 +1,6 @@
 import pandas as pd
 
-data = pd.read_csv("patients.csv")
+data = pd.read_csv("patient.csv")
 
 average_age = data["Age"].mean()
 average_heart_rate = data["Heart_Rate"].mean()
