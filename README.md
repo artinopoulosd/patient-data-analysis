@@ -44,3 +44,14 @@ Install the required dependency:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the analysis:
+
+```bash
+python analysis.py
+```
+
+## Project Status
+
+Completed beginner healthcare data analysis project.
